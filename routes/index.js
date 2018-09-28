@@ -10,7 +10,7 @@ router.get('/', function(req, res, next) {
     req.session.dataCardBike = [];
   }
   var dataBike = [
-    {name: "Model BIKO45", url:"/images/bike-1.jpg", price: 679},
+    {name: "Model BIKO45", url:"/images/bike-1.jpg", price: 003},
     {name: "Model ZOOK7", url:"/images/bike-2.jpg", price: 799},
     {name: "Model LIKO89", url:"/images/bike-3.jpg", price: 839},
     {name: "Model GEWO", url:"/images/bike-4.jpg", price: 1206},
